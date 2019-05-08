@@ -1,0 +1,9 @@
+/*Hoja de estilos*/
+#environment {
+	display: block;
+    margin: 0 auto;
+}
+
+#fondo {
+	opacity: 0.3;
+}
